@@ -1,0 +1,11 @@
+.button_css {
+  padding: 10px 30px;
+  width: 100% !important;
+}
+.button_css > a {
+  color: #fff;
+  text-decoration: none;
+}
+.button_css > a:hover {
+  color: #fff;
+}

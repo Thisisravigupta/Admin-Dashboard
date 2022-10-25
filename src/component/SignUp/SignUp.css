@@ -1,0 +1,17 @@
+.signup {
+  width: 500px !important;
+  height: auto;
+  padding: 10px;
+  background-color: #6c19ff;
+}
+.button_css {
+  padding: 10px 30px;
+  width: 100%;
+}
+.button_css > a {
+  color: #fff;
+  text-decoration: none;
+}
+.button_css > a:hover{
+  color: #fff;
+}

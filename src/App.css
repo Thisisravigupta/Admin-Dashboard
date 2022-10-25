@@ -1,0 +1,17 @@
+body {
+  background: url("./image/bg.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+.container {
+  display: flex;
+  height: 100vh;
+  justify-content: center;
+  align-items: center;
+}
+@media (max-width:426px) {
+  .container{
+    height: auto;
+  }
+}

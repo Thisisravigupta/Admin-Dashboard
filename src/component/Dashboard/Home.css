@@ -1,0 +1,17 @@
+.Home_Row_css {
+  display: flex;
+  justify-content: space-between;
+  width: 100% !important;
+}
+.btn{
+  width: auto;
+}
+@media (max-width: 426px) {
+  .Home_Row_css {
+    flex-direction: column;
+  }
+  .btn{
+    width: 100%;
+    margin-bottom: 10px;
+  }
+}
